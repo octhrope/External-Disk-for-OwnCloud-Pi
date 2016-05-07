@@ -12,10 +12,10 @@ Particularly when fstab isnt working properly.
 2. Mount the driave and make a directory to move the owncloud files to or to have a space for the hd to map to.
 	$ sudo mkdir /disk
 	$ sudo mount /dev/sda1 /disk	
-	$ sudo mkdir /disk/owncloud
 
 
 3. Download the automounthd.sh script. Edit the script, if necessairy, the sda# to match your external drive. (mine is sda1).    
+
 
 4.  copy automounthd.sh file to :
 		/etc/init.d
