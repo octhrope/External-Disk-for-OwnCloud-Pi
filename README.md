@@ -40,4 +40,4 @@ or
 	
 Your external drive is now automounting.    
 Test it with:
-	$ df
+		$ df
