@@ -5,9 +5,9 @@ Particularly when fstab isnt working properly.
 
 1.  Identify the external drive. (leave the $ off when copy pasting)
 
-    $ lsusb
-    $ sudo fdisk -l
-    $ df
+		$ lsusb
+		$ sudo fdisk -l
+		$ df
 
 	
 2. Mount the driave and make a directory to move the owncloud files to or to have a space for the hd to map to.
